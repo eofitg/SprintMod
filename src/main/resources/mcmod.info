@@ -1,0 +1,11 @@
+[
+{
+  "modid": "sprintmod",
+  "name": "SprintMod",
+  "description": "Just keep sprinting.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/eofitg/SprintMod",
+  "authorList": ["eofitg"]
+}
+]
