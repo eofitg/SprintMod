@@ -1,6 +1,6 @@
-package net.eofitg.eofitgfilter.command;
+package net.eofitg.sprintmod.command;
 
-import net.eofitg.eofitgfilter.SprintMod;
+import net.eofitg.sprintmod.SprintMod;
 import net.minecraft.command.CommandBase;
 import net.minecraft.command.ICommandSender;
 import net.minecraft.entity.player.EntityPlayer;

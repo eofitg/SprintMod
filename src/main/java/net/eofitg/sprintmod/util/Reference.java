@@ -1,4 +1,4 @@
-package net.eofitg.eofitgfilter.util;
+package net.eofitg.sprintmod.util;
 
 public class Reference {
     public final static String MOD_NAME = "@NAME@";

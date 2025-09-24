@@ -1,10 +1,10 @@
-package net.eofitg.eofitgfilter;
+package net.eofitg.sprintmod;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import net.eofitg.eofitgfilter.command.SprintModCommand;
-import net.eofitg.eofitgfilter.config.SprintModConfig;
-import net.eofitg.eofitgfilter.util.Reference;
+import net.eofitg.sprintmod.command.SprintModCommand;
+import net.eofitg.sprintmod.config.SprintModConfig;
+import net.eofitg.sprintmod.util.Reference;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.settings.KeyBinding;
 import net.minecraftforge.client.ClientCommandHandler;

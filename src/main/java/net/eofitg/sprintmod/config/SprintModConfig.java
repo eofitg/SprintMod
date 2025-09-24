@@ -1,4 +1,4 @@
-package net.eofitg.eofitgfilter.config;
+package net.eofitg.sprintmod.config;
 
 public class SprintModConfig {
     private boolean enabled = true;
