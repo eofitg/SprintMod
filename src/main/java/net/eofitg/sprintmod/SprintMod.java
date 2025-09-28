@@ -69,7 +69,7 @@ public class SprintMod {
 
     @SubscribeEvent
     public void onTick(TickEvent.ClientTickEvent event) {
-        if (event.phase == TickEvent.Phase.START && mc.thePlayer != null && mc.theWorld != null && mc.inGameHasFocus && config.isEnabled()) {
+        if (event.phase == TickEvent.Phase.END && mc.thePlayer != null && mc.theWorld != null && mc.inGameHasFocus && config.isEnabled()) {
             KeyBinding.setKeyBindState(mc.gameSettings.keyBindSprint.getKeyCode(), true);
         }
     }
